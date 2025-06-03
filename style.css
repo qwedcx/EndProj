@@ -285,7 +285,6 @@ body {
 .portfolio__item img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
     max-width: none;
     border-radius: 18px 18px 0 0;
     margin-bottom: 0;
@@ -373,7 +372,6 @@ body {
     font-weight: 500;
     color: #3D3D3F;
     margin-bottom: 4px;
-    opacity: 0.9;
 }
 
 .contact__field input,
@@ -492,7 +490,6 @@ body {
 .footer__newsletter-btn,
 .btn_primary {
     color: #fff;
-    opacity: 1;
 }
 
 .footer__newsletter-form {
